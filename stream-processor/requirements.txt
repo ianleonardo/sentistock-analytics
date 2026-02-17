@@ -1,0 +1,11 @@
+# stream-processor/requirements.txt
+-r ../requirements/base.txt
+kafka-python==2.0.2
+transformers==4.36.0
+torch==2.1.2
+pandas==2.1.4
+numpy==1.26.3
+scipy>=1.11.0
+pandas-ta>=0.3.14b
+psycopg2-binary>=2.9.9
+redis>=5.0.0
