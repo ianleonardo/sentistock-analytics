@@ -1,0 +1,7 @@
+# requirements/base.txt
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings>=2.1.0
+httpx==0.26.0
+structlog==24.1.0
+tenacity==8.2.3
